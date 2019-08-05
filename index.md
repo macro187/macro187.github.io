@@ -1,9 +1,6 @@
 ---
 ---
 
-macro187
-========
-
 <img src="/assets/hero.jpg" style="width:100%;" />
 
 
