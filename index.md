@@ -1,7 +1,6 @@
 ---
+hero: /assets/hero.jpg
 ---
-
-<img src="/assets/hero.jpg" style="width:100%;" />
 
 
 TestRunner
